@@ -1,0 +1,35 @@
+<svg fill="none" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+.wrapper {
+  font-size: 30px;
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes wave {
+  0% { transform: rotate(0.0deg) }
+  10% { transform: rotate(16.0deg) }
+  20% { transform: rotate(-6.0deg) }
+  30% { transform: rotate(16.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(16.0deg) }
+  60% { transform: rotate(0.0deg) }
+  100% { transform: rotate(0.0deg) }
+}
+
+.waving-hand {
+  animation: wave 2.1s 0.6s infinite;
+  transform-origin: 75% 75%;
+  display: inline-block;
+}
+			</style>
+				<div class="wrapper"><span class="waving-hand">👋</span>
+				</div>
+			</div>
+	</foreignObject>
+</svg>
