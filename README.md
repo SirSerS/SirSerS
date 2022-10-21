@@ -1,7 +1,7 @@
 <br >
 <div align="center" xmlns="http://www.w3.org/1999/xhtml" width="100%">
 		<img src="./injector_waving.svg" width="10%">
-		<img src="./injector_title.svg" width="35%" height="50px">
+		<img src="./injector_title.svg" width="40%" height="50px">
 		<img src="./injector_waving.svg" width="10%">
 </div>
 
