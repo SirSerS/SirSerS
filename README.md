@@ -1,20 +1,16 @@
-<div class="notBody">
-	<img src="./injector_bg_lines_backlight.svg" width="100%" height="200px">
-
-<!-- <div class="overlay" width=100% height="2000px">
-	<img src="./injector_bg_lines_backlight.svg" width=100% height="2000px"> -->
-
+<br >
 <div align="center" xmlns="http://www.w3.org/1999/xhtml" width="100%">
 		<img src="./injector_waving.svg" width="10%" height="50px">
 		<img src="./injector_title.svg" width="350px" height="50px">
 		<img src="./injector_waving.svg" width="10%" height="50px">
 </div>
 
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></a></p>
+
+<p align="center"><img src="https://github-readme-stats-7uid.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=400px" alt="Stats">
+<img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=10&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<" height="200" alt="Top Langs"></p>
 
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SirSerS&amp;theme=vue-dark&amp;hide_border=true&amp;border_radius=90&amp;date_format=M%20j%5B%2C%20Y%5D&amp;fire=0BDDCA&amp;ring=5FFFBF" alt="GitHub Streak"></a></p>
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirSerS&amp;langs_count=10&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<" alt="Top Langs"></a></p>
 
 ### <h3 align="center"> :toolbox: Tools and weapons: <h3>
 
@@ -179,6 +175,10 @@
 <a href="https://www.blender.org/" title="Blender"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30" height="30"/> </a>
 </p>
 
+<div class="notBody">
+	<img src="./injector_bg_lines_backlight.svg" width="100%" height="200px">
+</div>
+
 ### <h3 align="center"> In my :heart: :</h3>
 
 <table align="center" width=100%>
@@ -253,5 +253,3 @@ We are using the best viewing gear and open source image manipulation programs t
 </td>
 <tr>
 </table>
-<!-- </div> -->
-</div>
