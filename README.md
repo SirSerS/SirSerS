@@ -1,16 +1,38 @@
 <br >
-<div align="center" xmlns="http://www.w3.org/1999/xhtml" width="100%">
+<div align="center" xmlns="http://www.w3.org/1999/xhtml" width="100%" >
+<span>
+		<img src="./injector_waving.svg" width="10%" >
+		<img src="./injector_title.svg" width="35%"  height="50px">
 		<img src="./injector_waving.svg" width="10%">
-		<img src="./injector_title.svg" width="40%" height="50px">
-		<img src="./injector_waving.svg" width="10%">
+</span>
 </div>
+
+### <h1 align="center">about:Me</p>
+
+<h4>
+<ul align="left" type="square">
+<li> 🌐 I'm focusing on the latest Web3 and Blockchain innovations </li>
+<li> 👯 I’m looking to collaborate on Web3 development!</li>
+<li> 🐧 I see the world through <a href="https://kde.org/" target="_blank">KDE.</a></li>
+<li> 🚀 Talk to me about Technology, Space</li>
+<li> 🌱 Renewables and ☢️ Nuclear Energy enthusiast</li>
+<li> 🍅 I grow my own food, boy do they love it!🐌</li>
+<li> 🤔 My mind won't let me rest</li>
+<li> 📝 What?</li>
+<li> In :godmode: since 1987.</li>
+<li> Fun Fact: I'm mapping the sky all over again with my camera at night 📷🔭</li>
+<li><dt>  ..oh, and, of course</dt></li>
+<dd> I bath in Caffeine ☕🇮🇹🤌</dd>
+</ul>
+</h4>
+<br >
 
 <p align="center"><a href=""><img src="https://thawing-reef-34860.herokuapp.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></a></p>
 
 <p align="center"><img src="https://github-readme-stats-7uid.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=350px" alt="Stats">
 <img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<&card_width=350px" height="195" alt="Top Langs"></p>
 
-
+<p align="center"><a href=""><img src="https://shrouded-stream-38669.herokuapp.com/graph?username=SirSerS&theme=vue&custom_title=Recent%20Contributions&hide_border=true&radius=60" width="80%" alt="Contribution Graph"></a></p>
 
 ### <h3 align="center"> :toolbox: Tools and weapons: <h3>
 
@@ -192,7 +214,7 @@
 
 ### Camping <p title="Outdoors">:tent::camping:</p>
 
-### Sports! <span title="Sports">:swimming_man: :runner: :skier: </span>
+### Sports! <p title="Sports">:swimming_man: :runner: :skier: </p>
 
 </td>
 </tr>
