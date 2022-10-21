@@ -1,14 +1,14 @@
 <br >
 <div align="center" xmlns="http://www.w3.org/1999/xhtml" width="100%">
-		<img src="./injector_waving.svg" width="10%" height="50px">
-		<img src="./injector_title.svg" width="350px" height="50px">
-		<img src="./injector_waving.svg" width="10%" height="50px">
+		<img src="./injector_waving.svg" width="10%">
+		<img src="./injector_title.svg" width="35%" height="50px">
+		<img src="./injector_waving.svg" width="10%">
 </div>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></a></p>
+<p align="center"><a href=""><img src="https://thawing-reef-34860.herokuapp.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></a></p>
 
 <p align="center"><img src="https://github-readme-stats-7uid.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=350px" alt="Stats">
-<img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<" height="195" alt="Top Langs"></p>
+<img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<&card_width=350px" height="195" alt="Top Langs"></p>
 
 
 
