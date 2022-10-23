@@ -91,7 +91,7 @@
 
       .backlight {
       position: relative;
-      top: 3vw;
+      top: 4vw;
       width: 100vw;
       height: 10vh;
       text-align: center;
