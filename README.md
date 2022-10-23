@@ -196,10 +196,7 @@
 <a href="https://inkscape.org/" title="Inkscape"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="30px" height="30px"></a>
 <a href="https://www.blender.org/" title="Blender"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30" height="30"/> </a>
 </p>
-
-<div class="notBody">
-	<img src="./injector_bg_lines_backlight.svg" width="100%" height="200px">
-</div>
+<br>
 
 ### <h3 align="center"> In my :heart: :</h3>
 
@@ -275,3 +272,7 @@ We are using the best viewing gear and open source image manipulation programs t
 </td>
 <tr>
 </table>
+
+<div class="notBody">
+	<img src="./injector_bg_lines_backlight.svg" width="100%" height="200px">
+</div>
