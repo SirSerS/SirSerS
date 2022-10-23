@@ -253,8 +253,8 @@
 <a href="https://kubuntu.org/" title="Kubuntu"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Kubuntu_logo.svg" alt="Kubuntu" width="30px" height="30px"></a>
 <a href="https://www.kali.org/" title="Kali Linux"><img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="30px" height="30px"></a>
 <a href="https://www.centos.org/" title="CentOS"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" alt="CentOS" width="30px" height="30px"></a>
-<a href="https://www.centos.org/" title="OpenWrt"><img src="https://forum.openwrt.org/uploads/default/original/3X/7/4/740520c71f00039bbf001045c682f0ecb25e905a.png" alt="OpenWrt" width="30px" height="30px"></a>
-<a href="https://www.centos.org/" title="Armbian"><img src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" alt="Armbian" width="90px" height="30px"></a>
+<a href="https://openwrt.org/" title="OpenWrt"><img src="https://forum.openwrt.org/uploads/default/original/3X/7/4/740520c71f00039bbf001045c682f0ecb25e905a.png" alt="OpenWrt" width="30px" height="30px"></a>
+<a href="https://www.armbian.com/" title="Armbian"><img src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" alt="Armbian" width="90px" height="30px"></a>
 
 </p>
 </td>
