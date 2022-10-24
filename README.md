@@ -27,12 +27,12 @@
 </h4>
 <br >
 
-<p align="center"><a href=""><img src="https://thawing-reef-34860.herokuapp.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></a></p>
+<p align="center"><img src="https://thawing-reef-34860.herokuapp.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></p>
 
 <p align="center"><img src="https://github-readme-stats-7uid.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=350px" alt="Stats">
 <img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<&card_width=350px" height="195" alt="Top Langs"></p>
 
-<p align="center"><a href=""><img src="https://shrouded-stream-38669.herokuapp.com/graph?username=SirSerS&theme=vue&custom_title=Recent%20Contributions&hide_border=true&radius=60" width="90%" alt="Contribution Graph"></a></p>
+<p align="center"><img src="https://shrouded-stream-38669.herokuapp.com/graph?username=SirSerS&theme=vue&custom_title=Recent%20Contributions&hide_border=true&radius=60" width="90%" alt="Contribution Graph"></p>
 
 ### <h3 align="center"> :toolbox: Tools and weapons: <h3>
 
@@ -250,6 +250,7 @@
 <a href="https://kubuntu.org/" title="Kubuntu"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Kubuntu_logo.svg" alt="Kubuntu" width="30px" height="30px"></a>
 <a href="https://www.kali.org/" title="Kali Linux"><img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="30px" height="30px"></a>
 <a href="https://www.centos.org/" title="CentOS"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" alt="CentOS" width="30px" height="30px"></a>
+<a href="https://almalinux.org/" title="AlmaLinux"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/AlmaLinux_Icon_Logo.svg" alt="AlmaLinux" width="30px" height="30px"></a>
 <a href="https://openwrt.org/" title="OpenWrt"><img src="https://forum.openwrt.org/uploads/default/original/3X/7/4/740520c71f00039bbf001045c682f0ecb25e905a.png" alt="OpenWrt" width="30px" height="30px"></a>
 <a href="https://www.armbian.com/" title="Armbian"><img src="https://www.armbian.com/wp-content/uploads/2018/03/logo2.png" alt="Armbian" width="90px" height="30px"></a>
 
