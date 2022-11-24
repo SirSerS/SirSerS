@@ -29,8 +29,8 @@
 
 <p align="center"><img src="https://thawing-reef-34860.herokuapp.com?user=SirSerS&theme=vue-dark&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D&fire=0BDDCA&ring=5FFFBF" alt="GitHub Streak"></p>
 
-<p align="center"><img src="https://github-readme-stats-7uid.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=350px" alt="Stats">
-<img src="https://github-readme-stats-7uid.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<&card_width=350px" height="195" alt="Top Langs"></p>
+<p align="center"><img src="https://github-readme-stats-8fnxhoukl-sirsers.vercel.app/api?username=SirSerS&theme=vue-dark&hide_border=true&border_radius=60&show_icons=true&include_all_commits=false&count_private=true&card_width=350px" alt="Stats">
+<img src="https://github-readme-stats-8fnxhoukl-sirsers.vercel.app/api/top-langs/?username=SirSerS&count_private=true&langs_count=50&layout=compact&theme=vue-dark&hide_border=true&border_radius=60&custom_title=>%20%20Repo%20Languages%20Distribution%20<&card_width=350px" height="195" alt="Top Langs"></p>
 
 <p align="center"><img src="https://shrouded-stream-38669.herokuapp.com/graph?username=SirSerS&theme=vue&custom_title=Recent%20Contributions&hide_border=true&radius=60" width="90%" alt="Contribution Graph"></p>
 
