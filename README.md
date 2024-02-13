@@ -11,6 +11,7 @@
 
 <h4>
 <ul align="left" type="square">
+<li> 👾 The AI triumvirate for the rise! </li>
 <li> 🌐 I'm focusing on the latest Web3 and Blockchain innovations </li>
 <li> 👯 I’m looking to collaborate on Web3 development!</li>
 <li> 🐧 I see the world through <a href="https://kde.org/" target="_blank">KDE.</a></li>
@@ -22,7 +23,7 @@
 <li> In :godmode: since 1987.</li>
 <li> Fun Fact: I'm mapping the sky all over again with my camera at night 📷🔭</li>
 <li><dt>  ..oh, and, of course</dt></li>
-<dd> I bath in Caffeine ☕🇮🇹🤌</dd>
+<dd> I bathe in Caffeine ☕🇮🇹🤌</dd>
 </ul>
 </h4>
 <br >
